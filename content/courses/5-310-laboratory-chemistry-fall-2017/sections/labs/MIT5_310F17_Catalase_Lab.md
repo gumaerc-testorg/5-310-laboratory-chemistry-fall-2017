@@ -4,6 +4,7 @@ course_id: 5-310-laboratory-chemistry-fall-2017
 description: ''
 file: null
 file_location: /coursemedia/5-310-laboratory-chemistry-fall-2017/7aae278c4a2c3f63b8eb1664c139dc37_MIT5_310F17_Catalase_Lab.pdf
+file_size: null
 file_type: application/pdf
 layout: pdf
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

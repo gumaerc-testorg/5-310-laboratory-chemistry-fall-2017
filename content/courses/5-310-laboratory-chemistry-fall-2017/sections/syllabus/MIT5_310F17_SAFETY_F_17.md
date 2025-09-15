@@ -4,6 +4,7 @@ course_id: 5-310-laboratory-chemistry-fall-2017
 description: ''
 file: null
 file_location: /coursemedia/5-310-laboratory-chemistry-fall-2017/22a8a2631359206014bfcc5bb37fc164_MIT5_310F17_SAFETY_F_17.pdf
+file_size: null
 file_type: application/pdf
 layout: pdf
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

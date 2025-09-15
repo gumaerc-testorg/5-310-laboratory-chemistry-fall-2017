@@ -4,6 +4,7 @@ course_id: 5-310-laboratory-chemistry-fall-2017
 description: ''
 file: null
 file_location: /coursemedia/5-310-laboratory-chemistry-fall-2017/238cfff28a200f823a1bdca3e743d6f1_MIT5_310F17_Ester_Lab_F_17.pdf
+file_size: null
 file_type: application/pdf
 layout: pdf
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
